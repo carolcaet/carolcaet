@@ -27,7 +27,3 @@ Olá! 👋 Sou Caroline, uma entusiasta de análise de dados com formação em Q
 
 - 📧 Email: carolinecaet@yahoo.com
 - 💼 [Meu LinkedIn](https://www.linkedin.com/in/caroline-caetano-963521170/)
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=carolcaet&show_icons=true&include_all_commits=true)](https://github.com/carolcaet/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolcaet&layout=compact)](https://github.com/carolcaet/github-readme-stats)
